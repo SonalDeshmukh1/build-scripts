@@ -10,7 +10,7 @@
     "validate_build_script": "true",
     "use_non_root_user": "false",
     "v2.*.*": {
-        "dir": "Dockerfile/ubi9.3",
+        "dir": "ubi9.3",
         "build_script": "influxdb_ubi_9.3.sh"
      } 
 
